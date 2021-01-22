@@ -18,3 +18,6 @@ Working board:
 
 * "stm32F4_discovery_project"  
 Simple example for STM32F4 discovery. Just save one captured frame to the PC.
+
+
+这个usb 摄像头连接stm32
